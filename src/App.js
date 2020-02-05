@@ -21,10 +21,6 @@ class App extends React.Component{
       </div>
     );
   }
-  _add(){}
-  _subract(){}
-  _mult(){}
-  _divide(){}
-  _clearInput(){}
+  
 }
 export default App;
